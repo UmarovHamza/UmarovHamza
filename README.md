@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarovHamza)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarovHamza&show_icons=true&count_private=true)  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UmarovHamza)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UmarovHamza)  
 
